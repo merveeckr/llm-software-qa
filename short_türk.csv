@@ -1,0 +1,5 @@
+Requirement
+"Sistem, Olayları veya Aktiviteleri görüntüleyecektir."
+"Görüntüde iki bölge olacaktır ekranın sol 2/3’ü grafiksel, sağ 1/3’ü veri tablosudur."
+"Hem grafikteki düğümlerde hem de tablodaki satırlarda görüntülenen veriler MSEL Özet verileri olacaktır."
+"Görüntünün tablo tarafı 2 bölgeye ayrılacaktır sıralı ve zamansal."
