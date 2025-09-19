@@ -1,0 +1,5 @@
+Requirement
+"The system shall display Events or Activities."
+"There shall be two regions in the display: the left 2/3 of the screen for graphical view, and the right 1/3 for the data table."
+"The data displayed in both the nodes of the graph and the rows of the table shall be MSEL Summary data."
+"The table side of the display shall be divided into 2 regions: sequential and temporal."
