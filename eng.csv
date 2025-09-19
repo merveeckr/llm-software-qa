@@ -1,0 +1,501 @@
+Requirement,Appropriate,Complete,Conforming,Correct,Feasible,Necessary,Singular,Unambiguous,Verifiable
+"The system shall display Events or Activities.",1,0,0,1,1,1,1,0,0
+"There shall be two regions in the display: the left 2/3 of the screen for graphical view, and the right 1/3 for the data table.",1,1,0,1,1,1,1,1,1
+"The data displayed in both the nodes of the graph and the rows of the table shall be MSEL Summary data.",1,1,0,1,1,1,1,1,1
+"The table side of the display shall be divided into 2 regions: sequential and temporal.",1,1,0,1,1,1,1,1,1
+"The upper 1/4 of the table shall contain the sequential events to occur.",1,1,0,1,1,1,1,1,1
+"The lower 3/4 of the table shall contain the events related to the current time.",1,1,0,1,1,1,1,1,1
+"The system shall display events using color codes based on their deviations from the current time.",1,1,0,1,1,1,1,1,1
+"The system shall provide a history report of changes made to Activity or Event data.",1,1,0,1,1,1,1,1,1
+"The appearance and usability of the system shall comply with the user interface standards of the smart device.",1,1,1,1,1,1,1,1,1
+"The user interface shall include standard menus and navigation buttons.",1,1,1,1,1,1,1,1,1
+"The system shall update or create new property listings in the MLS.",1,1,0,1,1,1,1,1,1
+"The realtor shall be able to create a CMA report based on property criteria.",1,1,0,1,1,1,1,1,1
+"Program Managers and Nursing Faculty members shall be able to add clinical courses or sections to the course sequence.",1,1,0,1,1,1,1,1,1
+"Program Managers and Nursing Faculty shall be able to add a new cohort defined by start month and year.",1,1,0,1,1,1,1,1,1
+"Program Managers and Nursing Faculty shall be able to add new courses to the nursing curriculum.",1,1,0,1,1,1,1,1,1
+"A course may be either non-clinical or clinical.",1,0,0,1,1,1,1,1,0
+"A non-clinical course shall specify course name, classroom needs, and instructor needs.",1,1,0,1,1,1,1,1,1
+"A clinical course shall specify course name, classroom needs, clinical site needs, course instructor needs, and clinical lab instructor needs.",1,1,0,1,1,1,1,1,1
+"Program Managers/Nursing Faculty shall be able to create a new Program of Study.",1,1,0,1,1,1,1,1,1
+"A Program of Study shall consist of a program name and required courses (both clinical and non-clinical) to be completed.",1,1,0,1,1,1,1,1,1
+"Program Managers and Nursing Faculty shall be able to define which courses are required for a Program of Study.",1,1,1,1,1,1,1,1,1
+"The system shall display a report of courses required for all cohorts of all programs during a given term for planning purposes by Program Managers/Nursing Faculty.",1,1,1,1,1,1,0,1,1
+"The required course report shall include courses to be offered, required sections, required labs, and required classroom types.",1,1,1,1,1,1,1,1,1
+"Courses for a given cohort shall not conflict in day and time.",1,1,1,1,1,1,1,1,1
+"Program Managers and Nursing Faculty shall be able to add a new clinical site to the system.",1,1,1,1,1,1,1,1,1
+"The product shall support Internet Explorer 5.5 and above.",1,1,1,1,1,1,1,1,1
+"The product shall support Mozilla Firefox 1.0 and above.",1,1,1,1,1,1,1,1,1
+"The product shall interface with the Choice Parts System, which provides recycled parts data.",1,1,1,1,1,1,1,1,1
+"The product shall operate on existing hardware in all environments.",1,1,1,1,1,1,1,0,0
+"The product shall comply with enterprise Architecture guidelines.",1,1,1,1,1,1,1,0,0
+"The product shall comply with enterprise User Interface Guidelines.",1,1,1,1,1,1,1,0,0
+"The product shall conform to the enterprise color scheme.",1,1,1,1,1,1,1,1,1
+"The appearance of the product shall be professional.",0,0,0,0,1,0,1,0,0
+"The software product is expected to operate on Windows or Linux platforms.",1,1,1,1,1,1,1,1,1
+"The product shall be easily usable by Adjusters and Collision Estimators. 95% of Adjusters and Collision Estimators shall find the product easy to use.",1,1,1,1,1,1,1,1,1
+"The product shall improve the productivity of Collision Estimators. 80% of Collision Estimators shall acknowledge increased productivity within 1 month after using the product.",1,1,1,1,1,1,1,1,1
+"Users shall feel satisfied while using the product. 85% of all users shall be satisfied with the product.",1,1,1,1,1,1,1,1,1
+"The product shall be easy to learn for Adjusters and Collision Estimators. The product shall be learnable with two days of on-site training.",1,1,1,1,1,1,1,1,1
+"Users shall be able to easily find instructions while using the product. User help shall be available in 90% of the system.",1,1,1,1,1,1,1,0,0
+"Search for recycled parts shall not exceed 15 seconds. Search results shall be returned within 15 seconds.",1,1,1,1,1,1,1,1,1
+"Search for preferred repair facility shall not exceed 8 seconds. The preferred repair facility shall be returned within 8 seconds.",1,1,1,1,1,1,1,1,1
+"The recycled parts inspection report shall be returned to the user within 10 seconds. The inspection report shall be presented within 10 seconds.",1,1,1,1,1,1,1,1,1
+"Preferred repair facility scores shall be saved within 5 seconds. The saving process shall occur within 5 seconds.",1,1,1,1,1,1,1,1,1
+"The product shall comply with the enterprise online availability plan. The application shall be shut down within 98% of the planned outages.",1,1,1,1,1,1,1,0,0
+"The product shall provide 98% uptime. The product shall not fail more than 2% of online time.",1,1,1,1,1,1,1,1,1
+"The product shall support 1500 concurrent users. The system shall operate with 1500 users simultaneously.",1,1,1,1,1,1,1,1,1
+"The average daily number of recycled parts records shall be 50,000.",1,1,1,1,1,1,1,1,1
+"The product shall support 10,000 concurrent users within 2 years after initial release.",1,1,1,1,1,1,1,1,1
+"The product shall be operable in dirty and noisy conditions of a repair facility for Estimators.",1,1,1,1,1,1,1,0,0
+"The product shall interface with the ChoiceParts system once per day at approximately 01:00.",1,1,1,1,1,1,1,1,1
+"Product maintenance shall be performed during designated enterprise maintenance intervals.",1,1,1,1,1,1,1,0,0
+"The product shall be supported through the enterprise support center.",1,1,1,1,1,1,1,1,0
+"Product installations and upgrades shall be performed by the middleware technology team within designated release timeframes.",1,1,1,1,1,1,1,0,0
+"Only adjusters shall be able to request a recycled parts inspection report. Users without the adjuster role shall not be able to request recycled parts inspections.",1,1,1,1,1,1,1,1,1
+"Only adjusters with the supervisor role shall be able to update preferred repair facility scores. Users without the supervisor role shall not have access to these scores.",1,1,1,1,1,1,1,1,1
+"Only collision estimators shall be able to search for recycled parts. Users without the collision estimator role shall not have access to this search.",1,1,1,1,1,1,1,1,1
+"Only valid data shall be entered into the system. Invalid data shall not be entered into the system.",1,1,1,1,1,1,1,0,0
+"An insurance company shall not be able to view the claim data of another insurance company.",1,1,1,1,1,1,1,1,1
+"The product shall be free of computer viruses.",1,1,1,1,0,1,1,0,0
+"The system shall prevent malicious attacks, including denial of service (DoS).",1,1,1,1,0,1,1,0,0
+"The product shall comply with Sarbanes-Oxley regulations.",1,1,1,1,1,1,1,0,0
+"The product shall comply with laws related to recycled parts usage.",1,1,1,1,1,1,1,0,0
+"The product shall comply with insurance regulations related to claim processing.",1,1,1,1,1,1,1,0,0
+"The user shall search for a preferred repair facility using vehicle, vehicle location, and radius in miles.",1,1,1,1,1,1,1,1,1
+"Vehicle data shall include vehicle year, make, and model.",1,1,1,1,1,1,1,1,1
+"Vehicle location shall include street address, city, state, and postal code.",1,1,1,1,1,1,1,1,1
+"If the postal code is unknown, the system shall determine the postal code based on street address, city, and state.",1,1,1,1,1,1,1,1,1
+"The search radius shall be between 1 and 30 miles.",1,1,1,1,1,1,1,1,1
+"The system shall find the highest-rated preferred repair facility based on the entered criteria.",1,1,1,1,1,1,1,1,1
+"The adjuster shall enter the preferred repair facility into the estimate assignment.",1,1,1,1,1,1,1,1,1
+"The adjuster shall be able to override the preferred repair facility in the estimate assignment.",1,1,1,1,1,1,1,1,1
+"The preferred repair facility shall be returned to the user.",1,1,1,1,1,1,1,1,1
+"If a preferred repair facility cannot be determined, the system shall return a list of repair facilities within the radius.",1,1,1,1,1,1,1,1,1
+"The estimator shall search for available recycled parts using damaged vehicle part information.",1,1,1,1,1,1,1,1,1
+"The estimator shall search for available recycled parts using the preferred parts suppliers list.",1,1,1,1,1,1,1,1,1
+"The system shall search for available recycled parts and suppliers for the provided vehicle parts.",1,1,1,1,1,1,1,1,1
+"If parts are not found from preferred suppliers, the estimator shall search using postal code and 30-mile radius.",1,1,1,1,1,1,1,1,1
+"The system shall store available recycled parts and suppliers returned from the search.",1,1,1,1,1,1,1,1,1
+"The available recycled parts and their suppliers shall be returned to the user.",1,1,1,1,1,1,1,1,1
+"The estimator shall apply selected recycled parts to the collision estimate.",1,1,1,1,1,1,1,1,1
+"If no available parts are returned, the estimator shall not apply recycled parts to the collision estimate.",1,1,1,1,1,1,1,1,1
+"The adjuster shall review the collision estimate.",1,1,1,1,1,1,1,1,1
+"The adjuster shall request a recycled parts inspection of the collision estimate.",1,1,1,1,1,1,1,1,1
+"The recycled parts search results provided to the estimator shall be received by the system.",1,1,1,1,1,1,1,0,1
+"The system shall create an inspection report based on available recycled parts and the collision estimate.",1,1,1,1,1,1,1,1,1
+"The inspection report shall include the total number of recycled parts used in the estimate.",1,1,1,1,1,1,1,1,1
+"The inspection report shall include the number of available recycled parts returned from the original search results.",1,1,1,1,1,1,1,1,1
+"The inspection report shall include the percentage of available recycled parts used in the estimate.",1,1,1,1,1,1,1,0,1
+"The inspection report shall include the total inspection score comprised of individual line item totals.",1,1,1,1,1,1,1,0,0
+"The inspection report shall be displayed to the user.",1,1,1,1,1,1,1,1,1
+"The inspection report shall be accessible to other adjusters at later times.",1,1,1,1,1,1,1,0,0
+"The user shall choose to view preferred repair facility scores.",1,1,1,1,1,1,1,1,1
+"Current repair facility scores shall be shown to the user.",1,1,1,1,1,1,1,1,1
+"If no scores are yet defined in the system, the system shall display an empty set of scores.",1,1,1,1,1,1,1,1,1
+"The user shall enter new scores based on the inspection report.",1,1,1,1,1,1,1,1,1
+"Scores shall be on a scale of 1-10.",1,1,1,1,1,1,1,1,1
+"Scores shall include categories for attempted use and actual use of recycled parts.",1,1,1,1,1,1,1,0,1
+"The user shall choose to save preferred repair facility scores.",1,1,1,1,1,1,1,1,1
+"Preferred repair facility scores shall be saved by the system.",1,1,1,1,1,1,1,1,1
+"Product must work with most database management systems (DBMS) available on the market; the DBMS may reside on the same machine as the product or on a different machine within the same computer network.",1,0,1,1,1,1,1,0,0
+"Product will operate with server software on any operating system where a Java runtime environment can be installed.",1,1,1,1,1,1,1,0,1
+"Product will require working with a database management system (DBMS). The DBMS may be located on the same machine as the product or on a separate machine within the same computer network.",1,1,1,1,1,1,1,1,1
+"Product must use web/application server technology. Open-source examples: Apache, Tomcat, and JBoss.",1,1,1,1,1,1,1,1,1
+"A database management system such as Oracle, DB2, MySQL, or HSQL must be integrated with the product.",1,1,1,1,1,1,1,1,1
+"The look and feel of the product must be configurable to include elements such as the customer's organizational logo, brand, and identity.",1,0,1,1,1,1,1,0,0
+"The product’s appearance must be conservative and professional.",1,0,1,1,1,1,1,0,0
+"The product must encourage users to want to use it. 80% of surveyed users must report that they continue to use the product regularly after the first 2 weeks following launch.",1,1,1,1,1,1,1,1,1
+"The product must be easy to use. 90% of users must be able to successfully reserve a meeting room within 5 minutes of starting to use the product.",1,1,1,1,1,1,1,1,1
+"The product must provide feedback to users when necessary. 80% of surveyed users must report that the product correctly confirms its actions.",1,1,1,1,1,1,1,0,1
+"The product must allow the user to select the language of one of the target market countries.",1,0,1,1,1,1,1,0,0
+"The product must allow customization of the home page and display preferences.",1,1,1,1,1,1,1,1,1
+"An employee must be able to use the product successfully within a few minutes. Within less than 15 minutes of informal navigation, users must be able to successfully schedule a meeting and reserve a meeting room.",1,1,1,1,1,1,0,0,1
+"The product must use a standard navigation menu familiar to most web users.",1,0,1,1,1,1,1,0,0
+"The product must allow intuitive searching of available meeting rooms.",1,1,1,1,1,1,1,0,0
+"The product must comply with the Americans with Disabilities Act (ADA).",1,1,1,1,1,1,1,0,0
+"Responses must be fast enough not to interrupt the user’s thought process. 90% of tasks must complete within 5 seconds, and 98% within 8 seconds.",1,1,1,1,1,1,1,1,1
+"Except for server failures, the software product must provide 99.99% uptime.",1,1,1,1,1,1,1,0,1
+"The product must generate an exception log of encountered issues and transmit it to our company for analysis and resolution.",1,1,1,1,1,1,1,1,1
+"The product must be capable of handling 1,000 concurrent requests. This number will increase to 2,000 in Release 2. Concurrency capacity must meet peak times such as early morning and late afternoon.",1,1,1,1,1,1,0,0,1
+"The product must be capable of performing 10,000 transactions per hour within two years of release. This number will increase to 20,000 in Release 2.",1,1,1,1,1,1,0,0,1
+"The product must be designed to operate for at least 5 years at each customer installation.",1,1,1,1,1,1,1,1,1
+"The product will be used in office environments.",1,1,1,1,1,1,1,1,1
+"The product must interact with any HTML browser. The product must seamlessly transmit data between the user and the product and display HTML correctly in 80% of all tested browsers (minimum 8 browsers will be tested).",1,1,1,1,1,1,0,0,1
+"The product must interact with various database management systems. The product must successfully communicate with the database management system in 100% of all transactions.",1,1,1,1,1,1,1,0,1
+"The product must generate an exception log of encountered problems and transmit it to our company for analysis and resolution.",1,1,1,1,1,1,1,1,1
+"The product must be capable of handling 1,000 concurrent requests. This number will increase to 2,000 in Release 2. The product must handle peak times (early morning and late afternoon).",1,1,1,1,1,1,1,0,1
+"The product must be capable of performing 10,000 transactions per hour within two years of release. This number will increase to 20,000 in Release 2.",1,1,1,1,1,1,1,0,1
+"The product must ensure that only company employees or external users with company-approved user IDs have access to the product. 100% of logins must occur only with company employees or approved user IDs.",1,1,1,1,1,1,1,1,1
+"Only administrators may query reservations by user. 100% of reservation queries must be made only by administrator logins.",1,1,1,1,1,1,1,1,1
+"The product must ensure that data in the database matches the information entered by the user. Every conference room reservation in the system must contain the same information entered by the user.",1,1,1,1,1,1,1,1,1
+"The product must prevent malicious data entry. Data in the product and/or connected hardware/software systems must remain 100% intact during every malicious data entry attempt.",1,1,1,1,1,1,1,1,1
+"The product and/or connected databases/files must continue to operate despite malicious data entry. During malicious data entry attempts, the product and/or connected databases/files must operate 100% without crashing.",1,1,1,1,1,1,1,1,1
+"The language of the product must cover all countries in the target markets. 90% of participants from each target market country must state that the product’s language is acceptable.",1,1,1,1,1,1,1,1,1
+"The product will be developed using J2SE/J2EE programming language libraries.",1,1,1,1,1,1,1,1,1
+"The product will record meeting logs.",1,1,1,1,1,1,1,1,1
+"The product will notify employees of meeting invitations.",1,1,1,1,1,1,1,1,1
+"The product will be able to send meeting reminders to employees.",1,1,1,1,1,1,1,1,1
+"The product will assign the organizer’s contact information to each meeting.",1,1,1,1,1,1,1,1,1
+"The product will record meeting confirmations.",1,1,1,1,1,1,1,1,1
+"The product will be able to store new conference rooms.",1,1,1,1,1,1,1,1,1
+"The product will be able to update existing conference rooms.",1,1,1,1,1,1,1,1,1
+"The product will be able to delete conference rooms.",1,1,1,1,1,1,1,1,1
+"The product will be able to store new room equipment.",1,1,1,1,1,1,1,1,1
+"The product will be able to update existing room equipment.",1,1,1,1,1,1,1,1,1
+"Completion of the Inventory Quantity Adjustment operation for the last 30 days will not take more than 30 minutes.",1,1,1,1,1,1,1,1,1
+"The system will allow at least 6 users to work simultaneously.",1,1,1,1,1,1,1,1,1
+"The system will use existing computer equipment.",1,1,1,1,1,1,1,1,0
+"The system will automatically back up business data and restore it on demand.",1,1,1,1,1,1,1,1,1
+"The system will provide consistent security. Changes in user passwords and/or permissions will apply across all parts of the system.",1,1,1,1,1,1,1,1,1
+"The system will allow detailed control of access rights for all major subsystems. Access rights must be assignable independently for all subsystems.",1,1,1,1,1,1,1,1,1
+"The system will comply with all applicable accounting standards. The final system release must successfully pass an audit conducted by an independent auditor.",1,1,1,1,1,1,1,1,1
+"The system will not require additional third-party licenses that involve royalty fees.",1,1,1,1,1,1,1,1,1
+"The system will allow the generation of Inventory Quantity Adjustment documents on demand.",1,1,1,1,1,1,1,1,1
+"The system will allow the generation of all Inventory Quantity Adjustment documents from a specific time onwards on demand.",1,1,1,1,1,1,1,1,1
+"The IQA subsystem will take into account the current inventory status and adjust the inventory of substitutable materials accordingly.",1,1,1,1,1,1,1,1,1
+"The system will allow the entry, storage, and modification of product formulas.",1,1,1,1,1,1,1,1,1
+"Product formulas will allow the use of semi-products with their own formulas.",1,1,1,1,1,1,1,1,1
+"Product formula components will allow the definition of substitutable materials.",1,1,1,1,1,1,1,1,1
+"Formula substitutable components will be stored in a permanent sequence.",1,1,1,1,1,1,1,1,1
+"The product will allow entry, storage, and modification of product menus used by POS terminals.",1,1,1,1,1,1,0,0,1
+"The PME subsystem will allow the creation of product menus based on the product list stored in the accounting system.",1,1,1,1,1,1,1,1,1
+"The PME subsystem will allow submenus within menus and products within submenus to be stored in a managed and permanent sequence.",1,1,1,1,1,1,0,0,1
+"Formula substitutable components will be automatically entered by the PFE subsystem.",1,1,1,1,1,1,1,1,1
+"Formula substitutable components will be stored in a permanent sequence.",1,1,1,1,1,1,1,1,1
+"The product will allow entry, storage, and modification of product menus used by POS terminals.",1,1,1,1,1,1,0,0,1
+"The PME subsystem will allow the creation of product menus based on the product list stored in the accounting system.",1,1,1,1,1,1,1,1,1
+"The PME subsystem will allow submenus within menus and products within submenus to be stored in a managed and permanent sequence.",1,1,1,1,1,1,0,0,1
+"The PME subsystem will allow a product to exist in multiple submenus.",1,1,1,1,1,1,1,1,1
+"The RMS system will have a Windows XP look and feel and will use GUI features to make it intuitive to use.",1,1,1,1,1,1,1,1,1
+"The system will create an Inventory Quantity Adjustment document based on product daily sales data and product formulas.",1,1,1,1,1,1,1,1,1
+"The system will generate Inventory Quantity Adjustment documents based on product daily sales data and product formulas.",1,1,1,1,1,1,1,1,1
+"The system will automatically generate Inventory Quantity Adjustment documents when daily Product Sales data is available.",1,1,1,1,1,1,1,1,1
+"The administrator will be able to activate a prepaid card within 5 seconds from the Management section.",1,1,1,1,1,1,1,1,1
+"The customer will be able to check the status of their prepaid cards within 5 seconds by entering a PIN number.",1,1,1,1,1,1,1,1,1
+"The system will allow customers to register on the website as 'pay-as-you-go' users within 5 minutes.",1,1,1,1,1,1,1,1,1
+"The system will allow customers to register on the website as 'unlimited movie subscriber' users within 10 minutes.",1,1,1,1,1,1,1,1,1
+"The system will allow existing customers to log in to the website with an email address and password within 5 seconds.",1,1,1,1,1,1,1,1,1
+"The system will allow customers to cancel their accounts, the process will not take longer than 2 minutes, the database account will be marked as inactive, and the user will not be able to log into the website.",1,1,1,1,1,1,1,1,1
+"The system will allow the administrator to deactivate a customer account within 1 minute, and the customer will no longer be able to access the website.",1,1,1,1,1,1,1,1,1
+"The administrator will be able to add/delete movies on the website within 5 minutes. Entered movie information will be stored in the database and reflected on the site.",1,1,1,1,1,1,1,1,1
+"The administrator will be able to add/delete categories on the website within 5 minutes.",1,1,1,1,1,1,1,1,1
+"The Izogn administrator will be able to access sales and usage statistics within 2 minutes.",1,1,1,1,1,1,1,1,1
+"The administrator will be able to generate unique prepaid PINs and save them in an Excel file.",1,1,1,1,1,1,1,1,1
+"The website must be visually attractive to all audiences; it must be fun and colors must be bright.",1,1,1,1,1,1,0,0,0
+"The website must have a modern, clean, and simple design.",1,1,1,1,1,1,0,0,0
+"The product must be usable by 90% of novice users on the Internet.",1,1,1,1,1,1,1,1,1
+"Users must not have to navigate more than 4 pages to create an account on the website.",1,1,1,1,1,1,1,1,1
+"Users must be able to access their movies within 2 clicks after logging into the website.",1,1,1,1,1,1,1,1,1
+"Blind surveys must show that 70% of users find purchasing streaming movies within 2 weeks convenient.",1,1,1,1,1,1,0,0,0
+"Blind surveys must show that 95% of users find using and purchasing prepaid cards convenient after one month.",1,1,1,1,1,1,0,0,0
+"The product must store customer purchasing preferences and information.",1,1,1,1,1,1,1,1,1
+"The product must make it easy for novice users to purchase and watch movies online; a designated movie must be viewable within 3 minutes.",1,1,1,1,1,1,1,1,1
+"The streaming server will support a maximum of 700 movies; new servers may be added for more movies.",1,1,1,1,1,1,1,1,1
+"The server will support a maximum of 1,000 concurrent users.",1,1,1,1,1,1,1,1,1
+"The website must have the capacity to support 100,000 customers.",1,1,1,1,1,1,1,1,1
+"The product is expected to operate for at least 2 years within the maximum maintenance budget.",1,1,1,1,1,1,1,0,0
+"All features of the website must be accessible over the Internet through a web browser.",1,1,1,1,1,1,1,1,1
+"The same hardware supporting the existing website will be used to support the new system.",1,1,1,1,1,1,1,1,1
+"Interfaces must be available with the following browsers: IE 5.X, 6.0, Netscape 6.x, 7.x, 8.x, and Firefox 1.0.",1,1,1,1,1,1,1,1,1
+"The website shall interface with the CyberSource API to process credit card transactions.", 1,1,1,1,1,1,1,1,1
+"The website shall be fully operational with MSN TV2.", 1,0,1,1,1,1,1,0,0
+"Movies shall be encoded via Windows Media Player 9.0 and streamed.", 1,1,1,1,1,1,1,1,1
+"Movies shall be encoded for streams at 56k and 256k speeds.", 1,1,1,1,1,1,1,1,1
+"Promotional updates on the website shall be completed within one day.", 1,1,1,1,1,1,1,1,1
+"Izogn administrator shall update category lists on the website within 2 minutes.", 1,1,1,1,1,1,1,1,1
+"Izogn administrator shall add new products to the website within 2 minutes.", 1,1,1,1,1,1,1,1,1
+"The system shall provide a 24-hour toll-free 800-number support line for customers.", 1,1,1,1,1,1,1,1,1
+"The website shall provide a help section with responses and solutions for common issues.", 1,1,1,1,1,1,1,1,1
+"Velkat personnel shall provide phone support to Izogn administrators Monday–Friday 07:00–19:00.", 1,1,1,1,1,1,1,1,1
+"The product shall be installed in the specified environment within 1 business day.", 1,1,1,1,1,1,1,1,1
+"Only registered customers shall be able to purchase streaming movies.", 1,1,1,1,1,1,1,1,1
+"A customer shall only stream a movie if it has been purchased and is within the 2-day viewing period.", 1,1,1,1,1,1,1,1,1
+"Only authorized personnel shall access customer records.", 1,1,1,1,1,1,1,1,1
+"Only administrators shall activate prepaid cards.", 1,1,1,1,1,1,1,1,1
+"Only authorized personnel shall access sales information.", 1,1,1,1,1,1,1,1,1
+"The website shall protect its data from corruption when incorrect data is entered.", 1,1,1,1,1,1,1,1,1
+"The website shall prevent intentional misuse and notify the administrator of all incidents.", 1,1,1,1,1,1,1,1,1
+"Data integrity scripts shall run weekly and verify database integrity.", 1,1,1,1,1,1,1,1,1
+"The website shall disclose how it uses data collected from users via an accessible Privacy Policy on all pages.", 1,1,1,1,1,1,1,1,1
+"The system shall notify users of changes in the information policy.", 1,1,1,1,1,1,1,1,1
+"The system shall disclose private information only in accordance with the organization's information policy.", 1,1,1,1,1,1,1,1,1
+"All customer information shall be stored in a secure database accessible only to authorized personnel.", 1,1,1,1,1,1,1,1,1
+"All credit card information shall be stored encrypted in the database.", 1,1,1,1,1,1,1,1,1
+"The streaming server shall include antivirus software to prevent malicious viruses.", 1,1,1,1,1,1,1,1,1
+"The website shall cater to all tribes in Nigeria.", 1,1,1,0,1,1,1,0,0
+"The website shall not be offensive to religious or ethnic groups.", 1,1,1,1,1,1,1,1,1
+"The website shall target not only Nigerians but all Africans.", 1,1,1,0,1,1,1,0,0
+"The website shall use Flash to provide animations on the homepage.", 1,1,1,1,1,1,1,1,1
+"IzognMovies shall meet licensing requirements defined by relevant organizations for broadcasting African movies.", 1,1,1,1,1,1,1,1,1
+"The website shall comply with W3C standards.", 1,1,1,1,1,1,1,1,1
+"PHP code shall comply with PEAR standards.", 1,1,1,1,1,1,1,1,1
+"The website shall allow customers to search movies by title, actor, or director.", 1,1,1,1,1,1,1,1,1
+"When displaying movie details, the website shall show the description, actors, and director entered by the administrator.", 1,1,1,1,1,1,1,1,1
+"The website shall request and authorize credit card payment before allowing a user to stream a movie.", 1,1,1,1,1,1,1,1,1
+"Purchased movies shall be viewable via Windows Media Player for 2 days from the purchase date.", 1,1,1,1,1,1,1,1,1
+"The website shall allow customers to browse movies by categories set by the Izogn administrator.", 1,1,1,1,1,1,1,1,1
+"The website shall allow customers to view reviews made by other customers on selected movies.", 1,1,1,1,1,1,1,1,1
+"The website shall allow customers to add their own reviews for selected movies.", 1,1,1,1,1,1,1,1,1
+"The website shall allow the Izogn administrator to approve reviews submitted by customers.", 1,1,1,1,1,1,1,1,1
+"The system shall allow customers to pay for a movie using a prepaid card.", 1,1,1,1,1,1,1,1,1
+"The website shall allow customers to purchase prepaid cards of $5, $10, or $20 via credit card or mail payment options.", 1,1,1,1,1,1,1,1,1
+"The system shall automatically update the website's homepage every Friday and display the 4 most recently added movies.", 1,1,1,1,1,1,1,1,1
+"The system shall allow users to update billing and contact information through the “My Account” section of the website.", 1,1,1,1,1,1,1,1,1
+"Prepaid cards shall be distributed via email or physical card.", 1,1,1,1,1,1,1,1,1
+"Only registered customers shall be able to purchase streaming movies.", 1,1,1,1,1,1,1,1,1
+"If a customer has purchased a movie and is within the 2-day viewing period, streaming shall be allowed.", 1,1,1,1,1,1,1,1,1
+"The website shall support free trial periods with various parameters defined by the Izogn Administrator.", 1,1,1,1,1,1,1,1,1
+"All streaming movie sales shall be recorded in the database and accessible by the administrator.", 1,1,1,1,1,1,1,1,1
+"All registered customer information shall be retained and protected in the database even if the customer cancels the account.", 1,1,1,1,1,1,1,1,1
+"Daily usage statistics shall be recorded and accessible by the administrator.", 1,1,1,1,1,1,1,1,1
+"The owner shall have free access to all streaming movies.", 1,1,1,0,1,1,1,0,1
+"Total lead cycle time shall be completed within 5 minutes during business hours (90% lead volume 8AM–8PM CST) and 3 minutes during non-business hours (99% lead volume).", 1,1,1,1,1,1,1,0,1
+"No lead evaluation shall take longer than 25 seconds for 97% of processed leads.", 1,1,1,1,1,1,1,0,1
+"The system shall record events and duration for leads taking longer than 25 seconds.", 1,1,1,1,1,1,1,1,1
+"The process shall comply with the total lead lifecycle assignment time specified in the Auto Rep Assignment process within 3 minutes.", 1,1,1,1,1,1,1,0,1
+"The lead cleansing process shall operate within the specified physical web service architecture.", 1,1,1,1,1,1,1,1,1
+"The cleansing process shall use a non-binding neutral data format (e.g., XML) when receiving and processing lead data.", 1,1,1,1,1,1,1,1,1
+"Error reports shall be available 24/7 to technical teams.", 1,1,1,1,1,1,1,0,1
+"Cleansing parameters shall be updated during planned maintenance hours.", 1,1,1,1,1,1,1,1,1
+"The vendor shall validate invalid leads.", 1,1,1,1,1,1,1,1,1
+"The vendor shall send a credit verification record to the corporate billing system.", 1,1,1,1,1,1,1,1,1
+"If a lead has a high score, the system shall provide the lead data and score to the corporate system.", 1,1,1,1,1,1,1,1,1
+"The lead cleansing function shall validate all leads received via the web service for data correctness.", 1,1,1,1,1,1,1,1,1
+"The lead cleansing function shall add all leads captured by the web service to the system.", 1,1,1,1,1,1,1,1,1
+"If the lead score is in the high average range, it shall be processed by the ARA function.", 1,1,1,1,1,1,1,0,1
+"If the lead score is in the medium average range, it shall be assigned for manual validation by a Record Coordinator via the eleads system.", 1,1,1,1,1,1,1,0,1
+"If the lead score is in the low average range, it shall be returned to the providing vendor.", 1,1,1,1,1,1,1,0,1
+"The lead cleansing function shall compile both communication and academic score information for the total score.", 1,1,1,1,1,1,1,1,1
+"The lead cleansing function shall use parameters provided by corporate and school to score part of a lead.", 1,1,1,1,1,1,1,1,1
+"The lead cleansing function shall return lead data and rejection reasons to the vendor for returned leads.", 1,1,1,1,1,1,1,1,1
+"The lead cleansing function shall have an interface for managing lead data parameters.", 1,1,1,1,1,1,1,1,1
+"The lead cleansing function shall verify users’ authority and authentication for parameter updates.", 1,1,1,1,1,1,1,1,1
+"The lead cleansing function shall retain potential lead duplicates returned from the corporate system.", 1,1,1,1,1,1,1,1,1
+"Before sending leads to the corporate system, leads shall be assigned to an acceptance representative.", 1,1,1,1,1,1,1,1,1
+"The lead cleansing function shall obtain a periodic list of current representatives from the corporate system.", 1,1,1,1,1,1,1,0,1
+"The product shall simulate the appearance of ships at sea.", 1,1,0,1,1,1,1,0,0
+"The product shall display grids within a circle using a periscope view.", 1,1,0,1,1,1,1,0,0
+"The product shall display each ship type with its corresponding image on the grid.", 1,1,0,1,1,1,1,0,0
+"When an attacking player fires, the product shall simulate ship firing sounds at sea.", 1,1,0,1,1,1,1,0,0
+"When a shot misses, the product shall simulate a miss sound.", 1,1,0,1,1,1,1,0,0
+"When a shot hits, the product shall simulate an impact sound.", 1,1,0,1,1,1,1,0,0
+"When a ship sinks, the product shall simulate sinking sounds.", 1,1,0,1,1,1,1,0,0
+"The product shall be accessible 24 hours a day, 7 days a week.", 1,1,1,1,1,1,1,1,1
+"The product shall support multiple simultaneous games.", 1,1,1,1,1,1,1,1,1
+"Response time shall be fast enough to maintain game flow; for 95% of cases ≤2 seconds, and the remaining 5% ≤4 seconds.", 1,1,1,1,1,1,1,1,1
+"The product shall protect player identities; players shall not access information revealing another player’s identity.", 1,1,1,1,1,1,1,1,1
+"The product shall be intuitive and self-explanatory; 9 out of 10 users shall complete the game without training.", 1,1,1,1,1,1,1,1,1
+"The product shall be accessible to English, Spanish, and French-speaking players; users shall select the language upon access.", 1,1,1,1,1,1,1,1,1
+"The product shall prevent a player from accessing another player’s attack or defense grids.", 1,1,1,1,1,1,1,1,1
+"The product shall maintain a player list.", 1,1,1,1,1,1,1,1,1
+"The product shall allow a user to identify themselves as a player.", 1,1,1,1,1,1,1,1,1
+"When a game starts, the product shall make assigned players unselectable from the player list.", 1,1,1,1,1,1,1,1,1
+"The product shall allow a user to remove themselves from the player list at any time.", 1,1,1,1,1,1,1,1,1
+"The product shall make inactive players unselectable from the player list.", 1,1,1,1,1,1,1,1,1
+"The product shall remove players inactive for 24 hours from the player list.", 1,1,1,1,1,1,1,1,1
+"The product shall allow a player to start a game by selecting another existing player.", 1,1,1,1,1,1,1,1,1
+"When a game starts, the product shall display a defense grid to each player.", 1,1,0,1,1,1,1,0,0
+"The product shall allow each player to place their 5 ships on their defense grid at the start of the game.", 1,1,1,1,1,1,1,1,1
+"The product shall allow a player to place their ships horizontally on the grid",1,1,1,1,1,1,1,1,1
+"The product shall allow a player to place their ships vertically on the grid",1,1,1,1,1,1,1,1,1
+"The product shall allow a player to place their ships diagonally on the grid",1,1,1,0,1,1,1,0,0
+"The product shall prevent ships from overlapping on a player’s grid",1,1,1,1,1,1,1,1,1
+"When both players have placed their 5 ships on their defense grids, the product shall determine the initial turn state for each player",1,1,1,1,1,1,1,1,1
+"Each turn, the product shall designate one player as attacking and one player as defending",1,1,1,1,1,1,1,1,1
+"The product shall maintain each player’s state (attack or defense) throughout their turn",1,1,1,1,1,1,1,1,1
+"At the beginning of each turn, the product shall inform each player of their current state",1,1,1,1,1,1,1,1,1
+"For each turn, the product shall allow the attacking player to declare a shot",1,1,1,1,1,1,1,1,1
+"For each shot, the product shall inspect the defending player’s grid to determine hit or miss",1,1,1,1,1,1,1,1,1
+"For each shot, the product shall notify players whether the shot was a hit or miss",1,1,1,1,1,1,1,1,1
+"For each shot, the product shall mark the shot as hit or miss on the defending player’s grid",1,1,1,1,1,1,1,1,1
+"For each shot, the product shall mark the shot as hit or miss on the attacking player’s grid",1,1,1,1,1,1,1,1,1
+"If a shot sinks a ship, the product shall notify players of the sunk ship",1,1,1,1,1,1,1,1,1
+"If a shot sinks a ship, the product shall mark the ship as sunk on the defending player’s grid",1,1,1,1,1,1,1,1,1
+"If a shot sinks a ship, the product shall display the type of the sunk ship on the defending player’s grid",1,1,0,1,1,1,1,0,0
+"If a shot sinks a ship, the product shall mark the ship as sunk on the attacking player’s grid",1,1,1,1,1,1,1,1,1
+"If a shot is marked as a hit, the product shall allow the attacking player to declare the next shot",1,1,1,1,1,1,1,1,1
+"If a shot is missed, the product shall switch the attacking player’s state to defense",1,1,1,1,1,1,1,1,1
+"If a shot is missed, the product shall switch the defending player’s state to attack",1,1,1,1,1,1,1,1,1
+"The product shall continue turn assignments until the game ends",1,1,1,1,1,1,1,1,1
+"The product shall end the game if the last ship of the defending player is sunk by the attacking player’s shot",1,1,1,1,1,1,1,1,1
+"The product shall allow players to end the game at any time",1,1,1,1,1,1,1,1,1
+"When the game ends, the product shall notify players that the game is over",1,1,1,1,1,1,1,1,1
+"When the game ends, the notification shall include the reason (e.g., a player won or a player ended the game)",1,1,1,1,1,1,1,1,1
+"When the game ends, the product shall allow each player to remain listed as a current player",1,1,1,1,1,1,1,1,1
+"When the game ends, the product shall allow each player to remove themselves from the player list",1,1,1,1,1,1,1,1,1
+"The system shall be easy to use by callers and supervisors; all tasks shall be completable within 2 minutes",1,1,1,1,1,1,1,1,1
+"The system shall be easy to learn by callers and supervisors; usage shall be learned within 10 minutes",1,1,1,1,1,1,1,1,1
+"The system shall be responsive; while a supervisor views a caller’s schedule at the DePaul TeleServices Center, response time shall not exceed 2 seconds for 90% of cases and 5 seconds for the remaining 10%",1,1,1,1,1,1,1,1,1
+"For a 56k connection, response time for all operations shall not exceed 6 seconds for 90% of cases",1,1,1,1,1,1,1,1,1
+"For a 112k or faster connection, response time for all operations shall not exceed 3 seconds for 90% of cases",1,1,1,1,1,1,1,1,1
+"The system shall be highly available year-round; it shall be usable from 12:00AM to 6:00PM",1,1,1,1,1,1,1,1,1
+"The system shall be usable from 7:00AM to 11:59PM year-round",1,1,1,1,1,1,1,1,1
+"The product shall be browser-independent; it shall run on Internet Explorer and Netscape Navigator",1,1,1,1,1,1,1,1,1
+"The system shall ensure only supervisors can post availability",1,1,1,1,1,1,1,1,1
+"The product shall allow only supervisors to enter caller schedules; supervisors shall access availability posts",1,1,1,1,1,1,1,1,1
+"The product shall allow only supervisors to view all caller schedules; supervisors shall access availability posts",1,1,1,1,1,1,1,1,1
+"The interface shall have a simple appearance; 90% of beta testers shall report it is sufficiently simple",1,1,1,1,1,1,1,1,1
+"The interface shall be attractive to callers and supervisors; 80% of beta testers shall find the interface attractive",1,1,1,1,1,1,1,1,1
+"The product shall provide GUI-based Monitoring Services; system administrators shall monitor messages, predict and detect issues, and provide internal/external support",1,1,1,1,1,1,1,0,1
+"The product shall comply with the Chicago City Application Development Guide; it shall provide a structured GUI",1,1,1,1,1,1,1,0,1
+"The product shall provide Monitoring Services; system administrators and DBAs shall easily use the system after 2 weeks of use",1,1,1,1,1,1,1,0,1
+"The product shall provide Error Tracking Services; system administrators and DBAs shall resolve operational errors with 99% accuracy",1,1,1,1,1,1,1,0,1
+"The product shall provide Portals; system administrators shall analyze operations via ad-hoc reporting and KPIs",1,1,1,1,1,1,1,0,1
+"The product shall provide Asynchronous Messaging; it shall enable parallel processing and reduce communication load",1,1,1,1,1,1,1,0,1
+"The product shall provide Multi-threading and Load Balancing; it shall manage data loads and traffic fluctuations",1,1,1,1,1,1,1,0,1
+"The product shall process messages within 2 seconds; the maximum message processing time shall be 2 seconds",1,1,1,1,1,1,1,1,1
+"The product shall check the system for new messages every second; at most every 1 second",1,1,1,1,1,1,1,0,1
+"The product shall provide Dynamic Change Support and Transparent Resource Addition; scalability shall be maintained without downtime for more than 1 day",1,1,1,1,1,1,1,0,1
+"The product shall be 99% available; to prevent service disruption during peak customer service periods; 99.99% available during normal workdays",1,1,1,1,1,1,1,0,1
+"The product shall be resilient; it shall use standard error prevention techniques",1,1,1,1,1,1,1,0,1
+"The product shall be resilient and fault-tolerant; it shall provide fault tolerance via recovery techniques, compensating actions, and routing",1,1,1,1,1,1,1,0,1
+"The product shall handle all operations; a minimum of 1 million transactions shall be processed annually",1,1,1,1,1,1,1,1,1
+"The product shall be platform-independent; it shall support any development environment and platform",1,1,1,1,1,1,1,1,1
+"The product shall interface with CSR and Datastream; message exchange shall occur without direct interfacing between the two systems",1,1,1,1,1,1,1,0,1
+"The product shall continue operation during upgrades, changes, or new resource additions; it shall function without service interruption",1,1,1,1,1,1,1,0,1
+"The product shall be regularly updated; new major features every six months and quarterly maintenance releases every six months",1,1,1,1,1,1,1,0,1
+"The product shall run on all platforms; new technologies shall be applied without architectural changes",1,1,1,1,1,1,1,0,1
+"The product shall be secure; it shall provide authentication and authorization",1,1,1,1,1,1,1,1,1
+"The product shall provide information security; it shall ensure confidentiality via encryption, WS-Security, and integrity checks",1,1,1,1,1,1,1,1,1
+"The product shall provide audit capabilities; messages shall be retained for at least one year for auditing and transaction tracking",1,1,1,1,1,1,1,1,1
+"The system shall use IBM and CCR standards; the interface shall display an IBM and a CCR logo",1,1,1,1,1,1,1,0,1
+"The system shall be viewable on any computer used by a CCR user; the interface shall be formatted for 800x600 resolution",1,1,1,1,1,1,1,0,1
+"The system interface shall use CCR naming; the same naming as in the existing WCS system and reports shall be used",1,1,1,1,1,1,1,0,1
+"The interface shall summarize data attractively for CCR management; each report type shall show at least one top-level summary in the results panel",1,1,1,1,1,1,1,0,1
+"The system shall use point-and-click interface; all selection and navigation functions shall be 100% accessible via mouse or keyboard",1,1,1,1,1,1,1,1,1
+"The interface shall be easy to use; 90% of users shall generate a report on first use, and IBM usability standards shall be met",1,1,1,1,1,1,1,1,1
+"Reports shall be easily generated; one-button creation and one-button export",1,1,1,1,1,1,1,1,1
+"Users shall quickly understand the system without instructions; after one use, 90% of the system shall be understandable and memorable",1,1,1,1,1,1,1,1,1
+"All CCR users shall be trained before WCS system deployment; one training session shall cover all users",1,1,1,1,1,1,1,1,1
+"The WCS system shall use appropriate terminology and naming; all interfaces and reports shall pass usability tests by CCR users",1,1,1,1,1,1,1,1,1
+"The WCS system shall always be available; 95% availability if IBM internal intranet is W3 accessible",1,1,1,1,1,1,1,0,1
+"The WCS system shall connect to other designated WCS databases",1,1,1,1,1,1,1,1,1
+"The WCS system shall allow data inclusion from outside the U.S. and access from outside the U.S. if approved by CCR management",1,1,1,1,1,1,1,0,1
+"The WCS system shall run in Windows; accessible via Internet on IBM computers with Windows 2000 or later",1,1,1,1,1,1,1,0,1
+"The WCS Brio component shall export files in Microsoft Excel and Lotus 1-2-3 formats; the interface shall have buttons producing .xls or .123 reports",1,1,1,1,1,1,1,0,1
+"The WCS system shall run queries on specific days to update data for CCR users; queries for external databases shall run once per week",1,1,1,1,1,1,1,0,1
+"All changes, updates, and additions to the WCS system shall be reflected in WCS Developer and User Guides; each change shall be documented",1,1,1,1,1,1,1,0,1
+"The system shall be accessible only by authorized CCR staff; users shall be authenticated via IBM intranet username and password",1,1,1,1,1,1,1,1,1
+"The WCS system shall not allow automatic login for any user; cookies containing WCS credentials shall not be stored on the user’s computer",1,1,1,1,1,1,1,1,1
+"Each team owner shall be authenticated via username and password to access the team owner page",1,1,1,1,1,1,1,1,1
+"The commissioner shall be the only authorized user to modify league settings",1,1,1,1,1,1,1,1,1
+"Each page shall include a navigation menu showing the directory of the current page",1,1,1,1,1,1,1,0,1
+"Each page shall have a consistent format with action elements in one area and navigation buttons in another",1,1,1,1,1,1,1,0,1
+"The message board on the league page shall show the 5 most recent messages; messages shall display the first 150 characters of content",1,1,1,1,1,1,1,0,1
+"A new user shall navigate league and team pages within 30 seconds after reaching the startup page",1,1,1,1,1,1,1,1,1
+"Users shall access 'add', 'drop', and 'trade player' pages from the team owner page with a single click",1,1,1,1,1,1,1,1,1
+"Users shall view at least 25 NFL player stats and points on each page",1,1,1,1,1,1,1,1,1
+"The application shall prompt the user for confirmation before removing or trading a player",1,1,1,1,1,1,1,1,1
+"The application shall complete each user transaction within a quarter of a second over the network",1,1,1,1,1,1,1,1,1
+"The application’s annual maximum downtime shall be 10 minutes",1,1,1,1,1,1,1,0,1
+"The application shall run on a web application server",1,1,1,1,1,1,1,0,1
+"Maximum wait time for navigation between screens in the Disputes application shall not exceed 5 seconds",1,1,1,1,1,1,1,1,1
+"The Disputes application shall support 350 concurrent users without performance degradation",1,1,1,1,1,1,1,1,1
+"The Disputes application shall be available 24x7x365; except for planned maintenance hours: Mon-Sat 03:00-04:00 EST, Sun 01:00-05:00 EST",1,1,1,1,1,1,1,0,1
+"The Disputes application shall interface with the Statement Database; all transaction details shall be obtained from Statement Database",1,1,1,1,1,1,1,0,1
+"A primary database shall be used to store cached data for active users",1,1,1,1,1,1,1,0,1
+"The system shall provide 95% uptime",1,1,1,1,1,1,1,0,1
+"The system shall have a professional appearance",1,1,1,1,1,1,1,0,1
+"Product shall have a consistent color scheme and fonts",1,1,1,1,1,1,1,0,1
+"System shall be usable by real estate agents without any training",1,1,1,1,1,1,1,0,1
+"System shall be intuitive and self-explanatory",1,1,1,1,1,1,1,0,1
+"Product shall be easy to learn for a real estate agent",1,1,1,1,1,1,1,0,1
+"Product shall use symbols and words naturally understandable by the real estate community",1,1,1,1,1,1,1,0,1
+"Product shall produce search results within an acceptable time frame",1,1,1,1,1,1,1,0,1
+"Search results shall be returned within 30 seconds after the user enters search criteria",1,1,1,1,1,1,1,1,1
+"Product shall generate CMA report within an acceptable time frame",1,1,1,1,1,1,1,0,1
+"CMA report shall be returned within 60 seconds after user enters CMA report criteria",1,1,1,1,1,1,1,1,1
+"Product shall perform person and appointment synchronization within an acceptable time",1,1,1,1,1,1,1,0,1
+"Product shall synchronize with office system every hour",1,1,1,1,1,1,1,1,1
+"Product shall be available 24/7",1,1,1,1,1,1,1,0,1
+"System shall be usable 999 times out of 1000 accesses",1,1,1,1,1,1,1,1,1
+"Product shall operate in offline mode when internet connection is unavailable",1,1,1,1,1,1,1,1,1
+"Product shall allow user to view previously downloaded search results, CMA reports, and appointments",1,1,1,1,1,1,1,1,1
+"Product shall preserve user preferences in case of a failure",1,1,1,1,1,1,1,1,1
+"100% of saved user preferences shall be restored when system is online",1,1,1,1,1,1,1,1,1
+"Product shall support multiple remote users",1,1,1,1,1,1,1,0,1
+"Product shall support 1000 concurrent users",1,1,1,1,1,1,1,0,1
+"Product shall support 1000 existing users; expected to increase fivefold within next year",1,1,1,1,1,1,1,0,1
+"Product shall be installable by an untrained real estate agent without printed instructions",1,1,1,1,1,1,1,0,1
+"90% of untrained agents shall be able to install the product without printed instructions",1,1,1,1,1,1,1,1,1
+"Product is expected to operate on Windows CE and Palm OS",1,1,1,1,1,1,1,0,1
+"Only registered real estate agents shall access the system",1,1,1,1,1,1,1,1,1
+"All system users shall be authenticated and authorized",1,1,1,1,1,1,1,1,1
+"Product shall prevent incorrect data entry",1,1,1,1,1,1,1,1,1
+"System shall allow a real estate agent to query MLS information",1,1,1,1,1,1,1,0,1
+"User shall be able to obtain directions to a selected property",1,1,1,1,1,1,1,0,1
+"User shall be able to download appointments and contact information for clients",1,1,1,1,1,1,1,0,1
+"System shall display clear property images in search results",1,1,1,1,1,1,1,0,1
+"System shall handle all user requests/tasks during business hours",1,1,1,1,1,1,1,0,1
+"System shall support 10 concurrent users from 9:00–17:00",1,1,1,1,1,1,1,0,1
+"System shall manage all nursing students and classes for the next 10 years",1,1,1,1,1,1,1,0,1
+"System shall manage nursing program curriculum and class/clinical scheduling for at least 5 years",1,1,1,1,1,1,1,0,1
+"System shall operate in a typical office environment at DePaul University School of Nursing",1,1,1,1,1,1,1,0,1
+"System shall conform to specifications of computers used by Program Managers/Nursing Staff",1,1,1,1,1,1,1,0,1
+"A secondary database shall be used to store historical statistics and data",1,1,1,1,1,1,1,0,1
+"System shall allow scheduling appointments by calling sellers or buyers",1,1,1,1,1,1,1,0,1
+"After automatic synchronization of appointment system with office system, agent shall be informed of new client appointments",1,1,1,1,1,1,1,0,1
+"Agent shall be able to receive a map showing property locations in a specific area",1,1,1,1,1,1,1,0,1
+"System shall notify agent when seller or buyer responds to an appointment request",1,1,1,1,1,1,1,0,1
+"Product shall allow user to save property search results",1,1,1,1,1,1,1,0,1
+"System shall be easy to use by Program Managers/Nursing Staff",1,1,1,1,1,1,1,0,1
+"All users shall be able to use the system after one day of training",1,1,1,1,1,1,1,0,1
+"System shall help prevent errors in course and clinical scheduling for nursing students",1,1,1,1,1,1,1,0,1
+"Number of errors recorded by students shall decrease by 50% in the first year",1,1,1,1,1,1,1,0,1
+"System shall be intuitive for Program Managers/Nursing Staff",1,1,1,1,1,1,1,0,1
+"2 out of 3 program managers/nursing staff shall successfully use system to manage class and clinical scheduling",1,1,1,1,1,1,1,0,1
+"System shall use symbols and words naturally understandable by the user community",1,1,1,1,1,1,1,0,1
+"Terminology in the system shall comply with Standard English and National Nursing Community standards",1,1,1,1,1,1,1,0,1
+"Staff shall complete a set of tasks on time",1,1,1,1,1,1,1,0,1
+"Response time for general student management tasks shall not exceed 5 seconds, and schedule creation time shall not exceed 30 seconds",1,1,1,1,1,1,1,0,1
+"System shall be available from 8:00–18:00",1,1,1,1,1,1,1,0,1
+"System shall run on Windows XP Professional operating system",1,1,1,1,1,1,1,0,1
+"System shall interface with CampusConnect central server",1,1,1,1,1,1,1,0,1
+"System shall interface with faculty central server",1,1,1,1,1,1,1,0,1
+"System shall interface with student main server",1,1,1,1,1,1,1,0,1
+"System shall be accessible via any HTML browser",1,1,1,1,1,1,1,0,1
+"Only authorized users shall access clinical site information",1,1,1,1,1,1,1,0,1
+"Program Managers/Nursing Staff shall be the only ones able to access clinical site details",1,1,1,1,1,1,1,0,1
+"Only authorized users shall access students’ personal information",1,1,1,1,1,1,1,0,1
+"Dr. Susan Poslusny and Dr. Julie Donalek shall be the only ones able to access students’ personal information",1,1,1,1,1,1,1,0,1
+"Only authorized users shall access the system section interfacing with CampusConnect",1,1,1,1,1,1,1,0,1
+"Fit criterion: Dr. Susan Poslusny and Karen Sysol shall be the only ones able to access final class section planning for the system interfacing with CampusConnect",1,1,1,1,1,1,1,0,1
+"System shall provide basic data integrity checks to reduce the likelihood of incorrect or invalid data entry",1,1,1,1,1,1,1,0,1
+"System shall protect sensitive information according to the organization’s information policy",1,1,1,1,1,1,1,0,1
+"System shall be designed to be as secure as possible against malicious interventions",1,1,1,1,1,1,1,0,1
+"System shall use the organization’s standard antivirus software to monitor for threats",1,1,1,1,1,1,1,0,1
+"A cohort shall be associated with a single Program of Study offered by the department",1,1,1,1,1,1,1,0,1
+"Program Managers and Nursing Staff shall be able to add a list of students to a cohort",1,1,1,1,1,1,1,0,1
+"Program Managers and Nursing Staff shall be able to add a single student to a cohort",1,1,1,1,1,1,1,0,1
+"Students added to a cohort shall comply with the cohort’s Program of Study",1,1,1,1,1,1,1,0,1
+"Program Managers and Nursing Staff shall be able to define preferred course sequence for a cohort",1,1,1,1,1,1,1,0,1
+"For each course in the cohort sequence, Program Managers and Nursing Staff shall define in which quarter the course will be offered",1,1,1,1,1,1,1,0,1
+"Program Managers and Nursing Staff shall be able to add new courses to a course sequence",1,1,1,1,1,1,1,0,1
+"Application updates shall be performed during NFL season midweek on Wednesday 03:00–06:00 CST",1,1,1,1,1,1,1,0,1
+"New system releases shall be published at the start of each NFL season",1,1,1,1,1,1,1,0,1
+"System shall display data from Sync Matrix 1.0 and Exercise Management Tool 1.0 applications",1,1,1,1,1,1,1,0,1
+"System shall send activity data back to Sync Matrix 1.0 or Exercise Management Tool 1.0 applications",1,1,1,1,1,1,1,0,1
+"System shall allow modifying the view",1,1,1,1,1,1,1,0,1
+"System shall provide a view of all activities in the exercise",1,1,1,1,1,1,1,0,1
+"System shall filter data by location and key activities",1,1,1,1,1,1,1,0,1
+"System shall allow a user to define time segments",1,1,1,1,1,1,1,0,1
+"System shall display local and exercise time separately",1,1,1,1,1,1,1,0,1
+"System shall provide the ability to pause and resume data refresh",1,1,1,1,1,1,1,0,1
+"System shall provide charts comparing actual time of activity versus default time",1,1,1,1,1,1,1,0,1
+"RFS system shall be available 24/7 during budget period. Year-round availability shall be 90%, during budget period 98%. 2% availability shall be restored within 1 hour of reported outage",1,1,1,1,1,1,1,0,1
+"98% of user workstations shall meet minimum hardware requirements prior to application. Minimum HDD space: 400MB",1,1,1,1,1,1,1,0,1
+"98% of user workstations shall meet minimum software requirements prior to application: IE 5.0, .NET Framework 1.1, IE Web Controls",1,1,1,1,1,1,1,0,1
+"RFS system shall easily interface with BDW environment. 7 data files shall be loaded into RFS system within 3 hours one day before budget process begins each year. Test files (7) shall be loaded 5 times during the year",1,1,1,1,1,1,1,0,1
+"Changes in revenue and expense formulas shall be applied to RFS system before budget process begins. Formulas shall be updated within one week of receipt and 2 weeks allocated for testing",1,1,1,1,1,1,1,0,1
+"New branches/complexes/regions and revenue/expense accounts added to BDW shall be reflected in RFS system before budget starts. All assets (as of end of October) shall be loaded",1,1,1,1,1,1,1,0,1
+"Only authorized users shall access RFS system. Only users existing in UAS system and assigned RFS system role can access",1,1,1,1,1,1,1,0,1
+"User access shall be limited to permissions granted by role. Each PCG hierarchy level is assigned a role and users are assigned to these roles. RFS system functionality depends on role permissions",1,1,1,1,1,1,1,0,1
+"Product shall comply with ENET Securities intranet page standards and requirements. 95% of product appearance and feel shall be approved before deployment, remaining 5% corrected and approved within one month",1,1,1,1,1,1,1,0,1
+"Intranet pages shall display properly at resolutions 800x600 and higher. 95% of pages shall display correctly, remaining 5% corrected within one week",1,1,1,1,1,1,1,0,1
+"Users shall easily use system to successfully complete budgets within specified time. Before deployment, 98% of users shall complete budget after one week of training",1,1,1,1,1,1,1,0,1
+"Product interface shall be fast. Response time shall not exceed 2 seconds for 90% of cases, 10 seconds for remaining 10%",1,1,1,1,1,1,1,0,1
+"System shall use registered email addresses as primary communication tool",1,1,1,1,1,1,1,0,1
+"System shall inform relevant parties for routine communications (courses offered, programs, etc.)",1,1,1,1,1,1,1,0,1
+"System shall inform relevant parties of changes related to clinics (capacity changes, cancellations, etc.)",1,1,1,1,1,1,1,0,1
+"System shall inform relevant parties of changes related to courses (cancellations, course detail changes, quarter-based course changes, etc.)",1,1,1,1,1,1,1,0,1
